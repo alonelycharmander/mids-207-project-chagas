@@ -1,3 +1,5 @@
+# Trying out a user-friendly dashboard app for visualizing data from other notebooks
+
 import streamlit as st
 import pandas as pd
 import seaborn as sns
