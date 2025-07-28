@@ -4,9 +4,12 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "ecgmentations>=0.0.9",
+    "matplotlib>=3.10.3",
     "numpy>=2.3.2",
+    "pandas>=2.3.1",
     "scikit-learn>=1.7.1",
     "scipy>=1.16.1",
+    "seaborn>=0.13.2",
 ]
 
 [dependency-groups]
